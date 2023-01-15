@@ -13,7 +13,7 @@ bool solve(int n , vector<ll> arr ,ll mid)
         return false;
     }
     for(int i = 1 ; i < n ; i++){
-        if(newArray[i-1] < mid)P
+        if(newArray[i-1] < mid)
     }
     
     
